@@ -2,8 +2,6 @@
 
 Light Labyrinth is a browser-based 3D puzzle game about guiding a laser through a closed room. Players place and rotate optical objects to reflect or split the beam, avoid obstacles, and deliver the required light to the sensor.
 
-This game was developed for the **2025-2 Computer Graphics course at Yonsei University** (연세대학교 2025-2 컴퓨터그래픽스).
-
 ## Gameplay
 
 Each stage introduces a different light-manipulation challenge. Select a stage, arrange the available objects, then click the laser source to test the path. A successful beam activates the sensor and advances to the next stage; an unsuccessful attempt costs one life.
